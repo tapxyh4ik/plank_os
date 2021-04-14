@@ -1,2 +1,1 @@
-# arduino-plank_os
-OS for Arduino (Uno/Nano/Mega) R3
+# Plank OS - OS for Arduino third revision
