@@ -3,3 +3,7 @@
 **Supported OS versions:**
 - [X] 1(*a*) 00.01
 - [X] 1(*b*) 00.01
+
+**Files info**
+|Name|File weight(disc)|File weight(memo)|
+|SYS1.00.01|?|?|
