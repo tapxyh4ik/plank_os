@@ -1,1 +1,1 @@
-# Plank OS - custom operation system
+# Plank OS - custom operating system
